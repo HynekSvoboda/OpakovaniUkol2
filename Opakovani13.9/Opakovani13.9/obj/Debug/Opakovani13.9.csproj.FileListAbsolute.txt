@@ -8,3 +8,14 @@ G:\prg\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.csproj.GenerateResour
 G:\prg\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.csproj.CoreCompileInputs.cache
 G:\prg\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.exe
 G:\prg\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\bin\Debug\Opakovani13.9.exe.config
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\bin\Debug\Opakovani13.9.exe
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\bin\Debug\Opakovani13.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.csproj.AssemblyReference.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13._9.Form1.resources
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13._9.Properties.Resources.resources
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.csproj.GenerateResource.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.csproj.CoreCompileInputs.cache
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.exe
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13.9.pdb
+C:\Users\hynko\Source\Repos\OpakovaniUkol2\Opakovani13.9\Opakovani13.9\obj\Debug\Opakovani13._9.Form2.resources
