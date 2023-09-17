@@ -21,6 +21,7 @@ namespace Opakovani13._9
             button4.Visible = false;
             numericUpDown3.Visible = false;
             label6.Visible = false;
+            button5.Visible= false;
 
         }
         Sportovecamater am;
@@ -44,6 +45,7 @@ namespace Opakovani13._9
             button4.Visible = true;
             numericUpDown3.Visible=true;
             label6.Visible=true;
+            button5.Visible=true;
             prf = new SportovecProfesional(textBox1.Text, Convert.ToDouble(textBox2.Text), Convert.ToDouble(textBox3.Text), dateTimePicker1.Value, Convert.ToDouble(numericUpDown2.Value));
             label9.Text= prf.ToString();
         }
@@ -52,6 +54,11 @@ namespace Opakovani13._9
         {
             prf.Trenuj(Convert.ToInt32(numericUpDown3.Value));
             label9.Text = prf.ToString();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            prf.StupenVykonosti=(Convert.ToInt32(numericUpDown4.Value));
         }
     }
 }

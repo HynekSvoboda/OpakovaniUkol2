@@ -14,13 +14,14 @@ namespace Opakovani13._9
         int stupenvykonosti;
         bool jednou = false;
 
-        int StupenVykonosti
+        public int StupenVykonosti
         {
             get { return stupenvykonosti; }
 
             set
             {
-                if (value < 1 && value > 7)
+                stupenvykonosti = value;
+                if (stupenvykonosti < 1 || stupenvykonosti > 7)
                 {
                     stupenvykonosti = 0;
                     MessageBox.Show("Neproběhla klasifikace stupně výkonosti");

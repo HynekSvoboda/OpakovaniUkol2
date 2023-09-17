@@ -19,7 +19,7 @@ namespace Opakovani13._9
             
             set
             {
-                    if (value < 1) value *= 100;
+                    if (value < 50) value *= 100;
                     if (value < 0) value *= -1;
                     obvodpasu = Math.Round(value, 0);
             }
